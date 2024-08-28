@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "MONGO_URL": "@mongo-url"
+    "MONGO_URL": "mongodb+srv://shahzadali:Ladla786mahi@cluster0.1a5765h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   }
 }
